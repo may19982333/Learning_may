@@ -1,4 +1,4 @@
-package Day02;
+package algorithm;
 
 import flink.algorithm.DuplicateNumber;
 
